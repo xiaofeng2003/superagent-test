@@ -1,3 +1,3 @@
 # superagent-test
 
-superagent 测试成功
+superagent 测试通过
